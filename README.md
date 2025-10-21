@@ -26,3 +26,4 @@ Para rodar em container docker
  docker run -d --name fastapi-crud -p 8000:8000 fastapi-crud
 
  
+pedro
